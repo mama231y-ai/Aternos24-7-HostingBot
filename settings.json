@@ -1,13 +1,13 @@
 {
   "name": "AFK BOT",
   "bot-account": {
-    "username": "lundka",
+    "username": "DOOM",
     "password": "passwordlund",
     "type": "offline"
   },
   "server": {
-    "ip": "kallu1324-DVTw.aternos.me",
-    "port": 29178,
+    "ip": "Doomsmp-eQ2T.aternos.me",
+    "port": 21443,
     "version": "",
     "try-creative": false
   },
